@@ -37,7 +37,7 @@ include('header.php');
             <div>
                 <i class="fa fa-home"></i>
                 <span>
-                    <h5>15 Road Umbilo</h5>
+                    <h5>15 Sphiwe Zuma Ave, Umbilo</h5>
                     <p>Durban, South Africa, SA</p>
                 </span>
             </div>
@@ -51,14 +51,14 @@ include('header.php');
             <div>
                 <i class="fa fa-envelope-o"></i>
                 <span>
-                    <h5>someone@saints.com</h5>
+                    <h5>srivas@saints.com</h5>
                     <p>Contact me using this email</p>
                 </span>
             </div>
         </div>
 
         <div class="block">
-            <form action="email.php" method="post">
+            <form action="https://formspree.io/f/mwkyldjk" method="POST">
                 <input type="text" name="name" placeholder="Enter your name" required>
                 <input type="text" name="email" placeholder="Enter your email address" required>
                 <input type="text" name="subject" placeholder="Enter your subject" required>
