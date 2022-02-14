@@ -81,4 +81,4 @@
       </nav>
 </body>
 
-  <script src="javascript/script1.js"></script>
+<script src="javascript/script1.js"></script>

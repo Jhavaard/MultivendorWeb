@@ -1,8 +1,8 @@
+<link href="css/styel1.css" rel="stylesheet">
+
 <?php
 include('header.php');
 ?>
-
-<link href="css/styel1.css" rel="stylesheet">
 
 <!DOCTYPE html>
 <html lang="en">
@@ -10,8 +10,6 @@ include('header.php');
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jhavaard's Website</title>
-    <link href="css/style1.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
     <script src="https://kit.fontawesome.com/a120e0cde1.js" crossorigin="anonymous"></script>
 </head>
@@ -43,7 +41,7 @@ include('header.php');
             </div>
             <div>
                 <i class="fa fa-phone"></i>
-                <span>
+                <span>4
                     <h5>+27 8651236545</h5>
                     <p>Monday to Saturday, 10AM to 6PM</p>
                 </span>
@@ -51,7 +49,7 @@ include('header.php');
             <div>
                 <i class="fa fa-envelope-o"></i>
                 <span>
-                    <h5>srivas@saints.com</h5>
+                    <h5>support@saints.co.za</h5>
                     <p>Contact me using this email</p>
                 </span>
             </div>
@@ -93,7 +91,11 @@ include('header.php');
     }
 
 </script>
-
 </body>
+
+<?php
+include('footer.php');
+?>
+
 </html>
 
